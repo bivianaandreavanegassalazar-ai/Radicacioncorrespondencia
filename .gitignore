@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# vamos a ignorar la base de datos#
+BD Registros Correspondencia Bootcamp Prueba.csv
