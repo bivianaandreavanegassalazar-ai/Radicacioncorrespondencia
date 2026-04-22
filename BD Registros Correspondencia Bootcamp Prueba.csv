@@ -1,0 +1,501 @@
+radicado;fecha_radicado;empresa_grupo;medio_recepcion;asunto;destinatarios;remitente;estado_tramite;quien_radicado
+R0001;21/01/2026;Ceme;Correo;Resolucion;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 1
+R0002;11/01/2026;Odi;Correo;Demanda;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 2
+R0003;21/11/2025;Odi;Correo;Ambiental;Juan Perez;Bancolombia;Pendiente;Radicador 3
+R0004;31/12/2025;Odi;Ventanilla;Accion de Tutela;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 4
+R0005;1/01/2026;Ceme;Ventanilla;Bienes e Inmuebles;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 5
+R0006;17/12/2025;Ceme;Correo;Salud Ocupacional;Ana Martinez;Bancolombia;Pendiente;Radicador 6
+R0007;22/12/2025;Odi;Ventanilla;Ambiental;Carlos Rodriguez;Superintendencia Financiera;Finalizado;Radicador 7
+R0008;15/02/2026;Ceme;Correo;Salud Ocupacional;Luis Fernandez;Alcaldia de Yumbo;Finalizado;Radicador 8
+R0009;13/01/2026;Ceme;Correo;Resolucion;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 9
+R0010;6/12/2025;Odi;Correo;Demanda;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 10
+R0011;8/12/2025;Concre;Correo;Bienes e Inmuebles;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 11
+R0012;30/03/2026;Ceme;Correo;Accion de Tutela;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 12
+R0013;3/01/2026;Odi;Correo;Estados de Cuenta;Luis Fernandez;Bancolombia;Pendiente;Radicador 13
+R0014;7/11/2025;Ceme;Ventanilla;Resolucion;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 14
+R0015;18/12/2025;Ceme;Correo;Demanda;Luis Fernandez;Alcaldia de Yumbo;Pendiente;Radicador 15
+R0016;4/02/2026;Ceme;Correo;Accion de Tutela;Maria Gomez;Bancolombia;Finalizado;Radicador 16
+R0017;16/02/2026;Ceme;Correo;Resolucion;Ana Martinez;Bancolombia;Pendiente;Radicador 17
+R0018;24/02/2026;Odi;Correo;Ambiental;Ana Martinez;Bancolombia;Finalizado;Radicador 18
+R0019;29/01/2026;Concre;Ventanilla;Salud Ocupacional;Juan Perez;Bancolombia;Finalizado;Radicador 19
+R0020;23/12/2025;Concre;Correo;Demanda;Juan Perez;Bancolombia;Finalizado;Radicador 20
+R0021;18/02/2026;Concre;Ventanilla;Ambiental;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 21
+R0022;13/03/2026;Ceme;Correo;Estados de Cuenta;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 22
+R0023;1/12/2025;Odi;Correo;Salud Ocupacional;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 23
+R0024;4/11/2025;Ceme;Correo;Bienes e Inmuebles;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 24
+R0025;9/11/2025;Concre;Correo;Resolucion;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 25
+R0026;7/01/2026;Ceme;Correo;Demanda;Luis Fernandez;Juzgado 12 Medellín;Finalizado;Radicador 26
+R0027;6/11/2025;Ceme;Correo;Salud Ocupacional;Maria Gomez;Bancolombia;Finalizado;Radicador 27
+R0028;1/02/2026;Concre;Ventanilla;Estados de Cuenta;Juan Perez;Superintendencia Financiera;Pendiente;Radicador 28
+R0029;13/01/2026;Concre;Correo;Demanda;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 29
+R0030;25/11/2025;Ceme;Correo;Salud Ocupacional;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 30
+R0031;12/11/2025;Ceme;Correo;Bienes e Inmuebles;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 31
+R0032;11/03/2026;Odi;Ventanilla;Estados de Cuenta;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 32
+R0033;5/04/2026;Odi;Correo;Demanda;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 33
+R0034;7/01/2026;Concre;Correo;Demanda;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 34
+R0035;15/11/2025;Odi;Ventanilla;Bienes e Inmuebles;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 35
+R0036;13/02/2026;Odi;Correo;Resolucion;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 36
+R0037;4/12/2025;Odi;Ventanilla;Bienes e Inmuebles;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 37
+R0038;24/01/2026;Odi;Correo;Bienes e Inmuebles;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 38
+R0039;1/04/2026;Ceme;Correo;Accion de Tutela;Juan Perez;Alcaldia de Yumbo;Pendiente;Radicador 39
+R0040;7/01/2026;Ceme;Ventanilla;Estados de Cuenta;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 40
+R0041;7/02/2026;Ceme;Correo;Resolucion;Ana Martinez;Bancolombia;Pendiente;Radicador 41
+R0042;5/11/2025;Ceme;Correo;Bienes e Inmuebles;Juan Perez;Bancolombia;Pendiente;Radicador 42
+R0043;5/11/2025;Odi;Correo;Estados de Cuenta;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 43
+R0044;24/01/2026;Odi;Correo;Demanda;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 44
+R0045;26/03/2026;Ceme;Correo;Bienes e Inmuebles;Maria Gomez;Juzgado 12 Medellín;Finalizado;Radicador 45
+R0046;9/12/2025;Ceme;Ventanilla;Ambiental;Maria Gomez;Bancolombia;Finalizado;Radicador 46
+R0047;1/01/2026;Ceme;Ventanilla;Accion de Tutela;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 47
+R0048;2/02/2026;Ceme;Ventanilla;Estados de Cuenta;Maria Gomez;Bancolombia;Finalizado;Radicador 48
+R0049;11/02/2026;Odi;Correo;Resolucion;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 49
+R0050;4/12/2025;Concre;Correo;Demanda;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 50
+R0051;4/01/2026;Ceme;Ventanilla;Resolucion;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 51
+R0052;9/04/2026;Odi;Correo;Salud Ocupacional;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 52
+R0053;17/12/2025;Odi;Ventanilla;Salud Ocupacional;Carlos Rodriguez;Juzgado 12 Medellín;Pendiente;Radicador 53
+R0054;5/03/2026;Concre;Correo;Salud Ocupacional;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 54
+R0055;24/11/2025;Odi;Correo;Ambiental;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 55
+R0056;2/11/2025;Concre;Ventanilla;Bienes e Inmuebles;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 56
+R0057;7/02/2026;Concre;Correo;Resolucion;Maria Gomez;Bancolombia;Finalizado;Radicador 57
+R0058;9/11/2025;Concre;Correo;Salud Ocupacional;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 58
+R0059;12/01/2026;Odi;Ventanilla;Salud Ocupacional;Maria Gomez;Bancolombia;Finalizado;Radicador 59
+R0060;18/02/2026;Concre;Ventanilla;Demanda;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 60
+R0061;4/11/2025;Ceme;Correo;Resolucion;Carlos Rodriguez;Superintendencia Financiera;Finalizado;Radicador 61
+R0062;26/03/2026;Odi;Correo;Demanda;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 62
+R0063;19/12/2025;Ceme;Correo;Ambiental;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 63
+R0064;26/03/2026;Ceme;Correo;Estados de Cuenta;Maria Gomez;Juzgado 12 Medellín;Pendiente;Radicador 64
+R0065;17/02/2026;Concre;Correo;Estados de Cuenta;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 65
+R0066;8/12/2025;Concre;Ventanilla;Ambiental;Ana Martinez;Bancolombia;Finalizado;Radicador 66
+R0067;29/01/2026;Concre;Correo;Bienes e Inmuebles;Ana Martinez;Bancolombia;Pendiente;Radicador 67
+R0068;8/12/2025;Ceme;Correo;Resolucion;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 68
+R0069;3/04/2026;Ceme;Ventanilla;Bienes e Inmuebles;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 69
+R0070;20/11/2025;Ceme;Correo;Ambiental;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 70
+R0071;9/01/2026;Ceme;Correo;Resolucion;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 71
+R0072;6/12/2025;Odi;Correo;Bienes e Inmuebles;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 72
+R0073;21/03/2026;Ceme;Ventanilla;Bienes e Inmuebles;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 73
+R0074;1/12/2025;Odi;Ventanilla;Ambiental;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 74
+R0075;6/01/2026;Concre;Correo;Ambiental;Luis Fernandez;Superintendencia Financiera;Finalizado;Radicador 75
+R0076;27/01/2026;Concre;Correo;Bienes e Inmuebles;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 76
+R0077;13/11/2025;Concre;Correo;Ambiental;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 77
+R0078;4/01/2026;Ceme;Ventanilla;Bienes e Inmuebles;Luis Fernandez;Bancolombia;Pendiente;Radicador 78
+R0079;26/12/2025;Concre;Ventanilla;Accion de Tutela;Ana Martinez;Bancolombia;Finalizado;Radicador 79
+R0080;3/04/2026;Concre;Correo;Estados de Cuenta;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 80
+R0081;4/12/2025;Ceme;Correo;Demanda;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 81
+R0082;12/11/2025;Concre;Correo;Demanda;Juan Perez;Ministerio de Ambiente;Pendiente;Radicador 82
+R0083;16/02/2026;Ceme;Ventanilla;Resolucion;Maria Gomez;Alcaldia de Yumbo;Pendiente;Radicador 83
+R0084;26/03/2026;Odi;Correo;Salud Ocupacional;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 84
+R0085;26/11/2025;Ceme;Ventanilla;Accion de Tutela;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 85
+R0086;18/02/2026;Concre;Ventanilla;Ambiental;Ana Martinez;Bancolombia;Finalizado;Radicador 86
+R0087;26/03/2026;Ceme;Correo;Ambiental;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 87
+R0088;23/02/2026;Ceme;Correo;Ambiental;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 88
+R0089;20/03/2026;Concre;Ventanilla;Bienes e Inmuebles;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 89
+R0090;19/01/2026;Odi;Correo;Salud Ocupacional;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 90
+R0091;21/12/2025;Ceme;Ventanilla;Resolucion;Carlos Rodriguez;Juzgado 12 Medellín;Pendiente;Radicador 91
+R0092;10/02/2026;Concre;Ventanilla;Resolucion;Maria Gomez;Superintendencia Financiera;Pendiente;Radicador 92
+R0093;29/01/2026;Ceme;Correo;Resolucion;Maria Gomez;Bancolombia;Finalizado;Radicador 93
+R0094;13/03/2026;Odi;Correo;Resolucion;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 94
+R0095;13/01/2026;Ceme;Correo;Bienes e Inmuebles;Maria Gomez;Bancolombia;Pendiente;Radicador 95
+R0096;27/11/2025;Odi;Correo;Ambiental;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 96
+R0097;4/11/2025;Ceme;Ventanilla;Ambiental;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 97
+R0098;16/01/2026;Ceme;Correo;Accion de Tutela;Juan Perez;Superintendencia Financiera;Pendiente;Radicador 98
+R0099;3/01/2026;Concre;Correo;Accion de Tutela;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 99
+R0100;9/12/2025;Odi;Correo;Demanda;Juan Perez;Bancolombia;Finalizado;Radicador 100
+R0101;10/11/2025;Ceme;Correo;Ambiental;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 101
+R0102;30/03/2026;Ceme;Correo;Salud Ocupacional;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 102
+R0103;25/03/2026;Odi;Correo;Bienes e Inmuebles;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 103
+R0104;28/12/2025;Ceme;Correo;Resolucion;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 104
+R0105;12/12/2025;Concre;Correo;Demanda;Juan Perez;Bancolombia;Finalizado;Radicador 105
+R0106;5/03/2026;Concre;Correo;Salud Ocupacional;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 106
+R0107;23/11/2025;Odi;Correo;Accion de Tutela;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 107
+R0108;27/02/2026;Ceme;Correo;Bienes e Inmuebles;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 108
+R0109;13/12/2025;Ceme;Correo;Resolucion;Luis Fernandez;Superintendencia Financiera;Finalizado;Radicador 109
+R0110;12/02/2026;Odi;Correo;Accion de Tutela;Ana Martinez;Bancolombia;Finalizado;Radicador 110
+R0111;25/01/2026;Odi;Correo;Demanda;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 111
+R0112;7/02/2026;Ceme;Correo;Accion de Tutela;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 112
+R0113;15/11/2025;Concre;Ventanilla;Bienes e Inmuebles;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 113
+R0114;5/11/2025;Concre;Correo;Accion de Tutela;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 114
+R0115;4/01/2026;Ceme;Correo;Ambiental;Luis Fernandez;Bancolombia;Pendiente;Radicador 115
+R0116;22/03/2026;Ceme;Correo;Salud Ocupacional;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 116
+R0117;6/02/2026;Odi;Correo;Accion de Tutela;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 117
+R0118;22/01/2026;Concre;Ventanilla;Salud Ocupacional;Luis Fernandez;Alcaldia de Yumbo;Finalizado;Radicador 118
+R0119;11/11/2025;Concre;Correo;Estados de Cuenta;Maria Gomez;Superintendencia Financiera;Pendiente;Radicador 119
+R0120;14/02/2026;Odi;Correo;Salud Ocupacional;Juan Perez;Bancolombia;Finalizado;Radicador 120
+R0121;2/12/2025;Ceme;Correo;Accion de Tutela;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 121
+R0122;22/12/2025;Odi;Correo;Accion de Tutela;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 122
+R0123;10/02/2026;Ceme;Correo;Resolucion;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 123
+R0124;22/01/2026;Odi;Ventanilla;Resolucion;Carlos Rodriguez;Bancolombia;Pendiente;Radicador 124
+R0125;27/01/2026;Ceme;Correo;Salud Ocupacional;Juan Perez;Superintendencia Financiera;Pendiente;Radicador 125
+R0126;21/03/2026;Odi;Correo;Accion de Tutela;Juan Perez;Bancolombia;Pendiente;Radicador 126
+R0127;6/11/2025;Concre;Correo;Bienes e Inmuebles;Luis Fernandez;Juzgado 12 Medellín;Finalizado;Radicador 127
+R0128;14/01/2026;Odi;Correo;Accion de Tutela;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 128
+R0129;18/02/2026;Odi;Correo;Accion de Tutela;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 129
+R0130;28/12/2025;Ceme;Correo;Resolucion;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 130
+R0131;13/01/2026;Odi;Ventanilla;Accion de Tutela;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 131
+R0132;4/12/2025;Concre;Ventanilla;Salud Ocupacional;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 132
+R0133;7/12/2025;Concre;Correo;Bienes e Inmuebles;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 133
+R0134;4/01/2026;Ceme;Correo;Salud Ocupacional;Juan Perez;Superintendencia Financiera;Pendiente;Radicador 134
+R0135;16/12/2025;Ceme;Correo;Bienes e Inmuebles;Luis Fernandez;Alcaldia de Yumbo;Pendiente;Radicador 135
+R0136;14/03/2026;Concre;Ventanilla;Bienes e Inmuebles;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 136
+R0137;14/03/2026;Concre;Correo;Ambiental;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 137
+R0138;20/12/2025;Ceme;Correo;Ambiental;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 138
+R0139;29/12/2025;Odi;Correo;Resolucion;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 139
+R0140;5/01/2026;Concre;Correo;Demanda;Juan Perez;Bancolombia;Finalizado;Radicador 140
+R0141;17/01/2026;Concre;Ventanilla;Resolucion;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 141
+R0142;4/03/2026;Ceme;Correo;Demanda;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 142
+R0143;7/11/2025;Odi;Ventanilla;Salud Ocupacional;Maria Gomez;Alcaldia de Yumbo;Pendiente;Radicador 143
+R0144;26/03/2026;Ceme;Ventanilla;Accion de Tutela;Luis Fernandez;Bancolombia;Pendiente;Radicador 144
+R0145;29/11/2025;Odi;Ventanilla;Ambiental;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 145
+R0146;27/11/2025;Ceme;Ventanilla;Estados de Cuenta;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 146
+R0147;1/11/2025;Concre;Ventanilla;Demanda;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 147
+R0148;10/04/2026;Ceme;Correo;Salud Ocupacional;Luis Fernandez;Superintendencia Financiera;Finalizado;Radicador 148
+R0149;8/01/2026;Ceme;Correo;Bienes e Inmuebles;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 149
+R0150;11/11/2025;Concre;Correo;Ambiental;Juan Perez;Bancolombia;Finalizado;Radicador 150
+R0151;7/02/2026;Ceme;Correo;Accion de Tutela;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 151
+R0152;29/11/2025;Ceme;Correo;Bienes e Inmuebles;Carlos Rodriguez;Superintendencia Financiera;Finalizado;Radicador 152
+R0153;4/12/2025;Ceme;Ventanilla;Accion de Tutela;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 153
+R0154;22/02/2026;Odi;Correo;Salud Ocupacional;Luis Fernandez;Alcaldia de Yumbo;Pendiente;Radicador 154
+R0155;26/11/2025;Concre;Correo;Bienes e Inmuebles;Juan Perez;Alcaldia de Yumbo;Pendiente;Radicador 155
+R0156;14/12/2025;Odi;Correo;Resolucion;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 156
+R0157;19/11/2025;Concre;Ventanilla;Resolucion;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 157
+R0158;9/02/2026;Odi;Ventanilla;Accion de Tutela;Ana Martinez;Ministerio de Ambiente;Pendiente;Radicador 158
+R0159;13/01/2026;Ceme;Ventanilla;Resolucion;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 159
+R0160;1/03/2026;Ceme;Correo;Ambiental;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 160
+R0161;21/02/2026;Odi;Ventanilla;Bienes e Inmuebles;Luis Fernandez;Bancolombia;Finalizado;Radicador 161
+R0162;20/02/2026;Concre;Correo;Estados de Cuenta;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 162
+R0163;17/03/2026;Ceme;Ventanilla;Demanda;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 163
+R0164;27/03/2026;Concre;Correo;Salud Ocupacional;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 164
+R0165;14/03/2026;Concre;Correo;Accion de Tutela;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 165
+R0166;10/12/2025;Concre;Correo;Resolucion;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 166
+R0167;9/11/2025;Concre;Correo;Bienes e Inmuebles;Luis Fernandez;Bancolombia;Finalizado;Radicador 167
+R0168;25/12/2025;Concre;Correo;Demanda;Maria Gomez;Bancolombia;Pendiente;Radicador 168
+R0169;23/11/2025;Concre;Correo;Ambiental;Maria Gomez;Bancolombia;Pendiente;Radicador 169
+R0170;6/03/2026;Ceme;Correo;Estados de Cuenta;Luis Fernandez;Bancolombia;Finalizado;Radicador 170
+R0171;19/01/2026;Odi;Correo;Ambiental;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 171
+R0172;22/11/2025;Ceme;Correo;Bienes e Inmuebles;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 172
+R0173;24/11/2025;Concre;Correo;Demanda;Maria Gomez;Bancolombia;Finalizado;Radicador 173
+R0174;7/02/2026;Odi;Ventanilla;Resolucion;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 174
+R0175;2/11/2025;Odi;Correo;Accion de Tutela;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 175
+R0176;22/12/2025;Concre;Ventanilla;Salud Ocupacional;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 176
+R0177;29/11/2025;Odi;Correo;Estados de Cuenta;Carlos Rodriguez;Juzgado 12 Medellín;Pendiente;Radicador 177
+R0178;19/12/2025;Ceme;Ventanilla;Ambiental;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 178
+R0179;6/02/2026;Concre;Ventanilla;Bienes e Inmuebles;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 179
+R0180;29/11/2025;Concre;Correo;Ambiental;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 180
+R0181;15/12/2025;Ceme;Correo;Demanda;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 181
+R0182;2/12/2025;Ceme;Correo;Ambiental;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 182
+R0183;18/02/2026;Odi;Correo;Resolucion;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 183
+R0184;2/12/2025;Concre;Ventanilla;Accion de Tutela;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 184
+R0185;22/12/2025;Ceme;Correo;Salud Ocupacional;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 185
+R0186;30/12/2025;Ceme;Correo;Bienes e Inmuebles;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 186
+R0187;16/03/2026;Odi;Ventanilla;Ambiental;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 187
+R0188;25/11/2025;Odi;Correo;Ambiental;Ana Martinez;Bancolombia;Finalizado;Radicador 188
+R0189;3/12/2025;Ceme;Correo;Resolucion;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 189
+R0190;17/11/2025;Concre;Correo;Demanda;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 190
+R0191;5/01/2026;Odi;Ventanilla;Salud Ocupacional;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 191
+R0192;11/11/2025;Ceme;Correo;Resolucion;Carlos Rodriguez;Superintendencia Financiera;Finalizado;Radicador 192
+R0193;18/03/2026;Odi;Ventanilla;Bienes e Inmuebles;Maria Gomez;Superintendencia Financiera;Pendiente;Radicador 193
+R0194;15/01/2026;Ceme;Correo;Demanda;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 194
+R0195;31/03/2026;Odi;Correo;Bienes e Inmuebles;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 195
+R0196;17/01/2026;Ceme;Ventanilla;Ambiental;Juan Perez;Bancolombia;Pendiente;Radicador 196
+R0197;1/03/2026;Concre;Ventanilla;Estados de Cuenta;Maria Gomez;Superintendencia Financiera;Pendiente;Radicador 197
+R0198;3/04/2026;Concre;Ventanilla;Accion de Tutela;Ana Martinez;Bancolombia;Pendiente;Radicador 198
+R0199;5/04/2026;Odi;Ventanilla;Resolucion;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 199
+R0200;1/11/2025;Concre;Correo;Estados de Cuenta;Ana Martinez;Ministerio de Ambiente;Pendiente;Radicador 200
+R0201;6/12/2025;Ceme;Correo;Resolucion;Maria Gomez;Bancolombia;Finalizado;Radicador 201
+R0202;21/12/2025;Ceme;Ventanilla;Estados de Cuenta;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 202
+R0203;31/01/2026;Odi;Ventanilla;Bienes e Inmuebles;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 203
+R0204;29/03/2026;Ceme;Correo;Bienes e Inmuebles;Luis Fernandez;Alcaldia de Yumbo;Pendiente;Radicador 204
+R0205;13/03/2026;Concre;Ventanilla;Ambiental;Ana Martinez;Bancolombia;Finalizado;Radicador 205
+R0206;24/03/2026;Concre;Correo;Resolucion;Juan Perez;Superintendencia Financiera;Pendiente;Radicador 206
+R0207;3/04/2026;Odi;Correo;Accion de Tutela;Carlos Rodriguez;Bancolombia;Pendiente;Radicador 207
+R0208;24/03/2026;Concre;Correo;Resolucion;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 208
+R0209;5/01/2026;Odi;Correo;Bienes e Inmuebles;Luis Fernandez;Bancolombia;Finalizado;Radicador 209
+R0210;30/03/2026;Odi;Correo;Accion de Tutela;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 210
+R0211;30/01/2026;Odi;Correo;Ambiental;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 211
+R0212;9/11/2025;Concre;Ventanilla;Bienes e Inmuebles;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 212
+R0213;24/01/2026;Odi;Correo;Ambiental;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 213
+R0214;15/11/2025;Odi;Ventanilla;Demanda;Carlos Rodriguez;Bancolombia;Pendiente;Radicador 214
+R0215;20/02/2026;Concre;Correo;Resolucion;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 215
+R0216;4/04/2026;Ceme;Correo;Demanda;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 216
+R0217;21/02/2026;Concre;Correo;Demanda;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 217
+R0218;13/11/2025;Ceme;Ventanilla;Accion de Tutela;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 218
+R0219;23/02/2026;Ceme;Correo;Bienes e Inmuebles;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 219
+R0220;9/04/2026;Odi;Ventanilla;Bienes e Inmuebles;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 220
+R0221;14/03/2026;Ceme;Correo;Resolucion;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 221
+R0222;22/01/2026;Odi;Ventanilla;Demanda;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 222
+R0223;5/11/2025;Concre;Ventanilla;Estados de Cuenta;Maria Gomez;Juzgado 12 Medellín;Finalizado;Radicador 223
+R0224;7/11/2025;Ceme;Correo;Bienes e Inmuebles;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 224
+R0225;29/03/2026;Concre;Correo;Accion de Tutela;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 225
+R0226;24/03/2026;Odi;Ventanilla;Estados de Cuenta;Luis Fernandez;Alcaldia de Yumbo;Finalizado;Radicador 226
+R0227;9/03/2026;Ceme;Correo;Ambiental;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 227
+R0228;22/02/2026;Odi;Ventanilla;Bienes e Inmuebles;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 228
+R0229;11/02/2026;Odi;Ventanilla;Estados de Cuenta;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 229
+R0230;3/04/2026;Ceme;Ventanilla;Accion de Tutela;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 230
+R0231;8/12/2025;Concre;Correo;Accion de Tutela;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 231
+R0232;27/12/2025;Ceme;Ventanilla;Salud Ocupacional;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 232
+R0233;5/04/2026;Concre;Correo;Resolucion;Juan Perez;Bancolombia;Finalizado;Radicador 233
+R0234;15/03/2026;Ceme;Ventanilla;Salud Ocupacional;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 234
+R0235;28/12/2025;Odi;Correo;Accion de Tutela;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 235
+R0236;19/02/2026;Odi;Correo;Accion de Tutela;Luis Fernandez;Juzgado 12 Medellín;Finalizado;Radicador 236
+R0237;30/11/2025;Concre;Correo;Resolucion;Ana Martinez;Bancolombia;Pendiente;Radicador 237
+R0238;23/02/2026;Concre;Correo;Accion de Tutela;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 238
+R0239;11/01/2026;Concre;Correo;Resolucion;Maria Gomez;Superintendencia Financiera;Pendiente;Radicador 239
+R0240;18/02/2026;Concre;Ventanilla;Accion de Tutela;Luis Fernandez;Juzgado 12 Medellín;Finalizado;Radicador 240
+R0241;5/03/2026;Odi;Correo;Estados de Cuenta;Luis Fernandez;Bancolombia;Pendiente;Radicador 241
+R0242;5/04/2026;Concre;Ventanilla;Salud Ocupacional;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 242
+R0243;23/12/2025;Concre;Ventanilla;Ambiental;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 243
+R0244;27/02/2026;Ceme;Ventanilla;Accion de Tutela;Maria Gomez;Juzgado 12 Medellín;Finalizado;Radicador 244
+R0245;31/12/2025;Ceme;Correo;Estados de Cuenta;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 245
+R0246;7/01/2026;Concre;Correo;Resolucion;Luis Fernandez;Alcaldia de Yumbo;Finalizado;Radicador 246
+R0247;28/11/2025;Odi;Correo;Estados de Cuenta;Maria Gomez;Superintendencia Financiera;Pendiente;Radicador 247
+R0248;14/01/2026;Concre;Ventanilla;Resolucion;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 248
+R0249;10/01/2026;Odi;Correo;Salud Ocupacional;Ana Martinez;Bancolombia;Pendiente;Radicador 249
+R0250;1/02/2026;Concre;Correo;Ambiental;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 250
+R0251;30/03/2026;Odi;Correo;Estados de Cuenta;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 251
+R0252;1/02/2026;Ceme;Ventanilla;Demanda;Juan Perez;Alcaldia de Yumbo;Pendiente;Radicador 252
+R0253;22/12/2025;Ceme;Correo;Bienes e Inmuebles;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 253
+R0254;9/04/2026;Odi;Correo;Resolucion;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 254
+R0255;4/04/2026;Concre;Ventanilla;Estados de Cuenta;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 255
+R0256;19/03/2026;Odi;Correo;Bienes e Inmuebles;Carlos Rodriguez;Juzgado 12 Medellín;Pendiente;Radicador 256
+R0257;20/12/2025;Odi;Correo;Ambiental;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 257
+R0258;8/01/2026;Concre;Ventanilla;Salud Ocupacional;Luis Fernandez;Alcaldia de Yumbo;Finalizado;Radicador 258
+R0259;21/02/2026;Odi;Correo;Salud Ocupacional;Ana Martinez;Bancolombia;Pendiente;Radicador 259
+R0260;28/11/2025;Ceme;Correo;Ambiental;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 260
+R0261;15/01/2026;Ceme;Correo;Bienes e Inmuebles;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 261
+R0262;19/02/2026;Concre;Ventanilla;Salud Ocupacional;Luis Fernandez;Superintendencia Financiera;Finalizado;Radicador 262
+R0263;25/11/2025;Odi;Correo;Resolucion;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 263
+R0264;11/11/2025;Odi;Correo;Resolucion;Maria Gomez;Juzgado 12 Medellín;Pendiente;Radicador 264
+R0265;22/02/2026;Odi;Correo;Ambiental;Ana Martinez;Bancolombia;Pendiente;Radicador 265
+R0266;2/11/2025;Ceme;Correo;Salud Ocupacional;Juan Perez;Ministerio de Ambiente;Pendiente;Radicador 266
+R0267;31/01/2026;Ceme;Ventanilla;Ambiental;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 267
+R0268;14/11/2025;Concre;Correo;Estados de Cuenta;Luis Fernandez;Bancolombia;Finalizado;Radicador 268
+R0269;21/11/2025;Concre;Correo;Ambiental;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 269
+R0270;19/11/2025;Odi;Correo;Bienes e Inmuebles;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 270
+R0271;28/11/2025;Odi;Correo;Resolucion;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 271
+R0272;6/01/2026;Odi;Correo;Resolucion;Maria Gomez;Alcaldia de Yumbo;Pendiente;Radicador 272
+R0273;29/11/2025;Odi;Ventanilla;Resolucion;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 273
+R0274;2/02/2026;Odi;Ventanilla;Demanda;Luis Fernandez;Superintendencia Financiera;Finalizado;Radicador 274
+R0275;14/02/2026;Concre;Ventanilla;Accion de Tutela;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 275
+R0276;31/03/2026;Concre;Correo;Resolucion;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 276
+R0277;8/03/2026;Odi;Correo;Accion de Tutela;Maria Gomez;Alcaldia de Yumbo;Pendiente;Radicador 277
+R0278;11/03/2026;Concre;Correo;Demanda;Maria Gomez;Bancolombia;Pendiente;Radicador 278
+R0279;18/12/2025;Concre;Correo;Resolucion;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 279
+R0280;25/02/2026;Ceme;Correo;Accion de Tutela;Luis Fernandez;Bancolombia;Finalizado;Radicador 280
+R0281;29/01/2026;Ceme;Ventanilla;Estados de Cuenta;Luis Fernandez;Bancolombia;Pendiente;Radicador 281
+R0282;17/12/2025;Ceme;Ventanilla;Resolucion;Juan Perez;Superintendencia Financiera;Pendiente;Radicador 282
+R0283;20/02/2026;Ceme;Correo;Accion de Tutela;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 283
+R0284;9/02/2026;Odi;Ventanilla;Ambiental;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 284
+R0285;8/01/2026;Ceme;Ventanilla;Salud Ocupacional;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 285
+R0286;8/03/2026;Ceme;Correo;Estados de Cuenta;Juan Perez;Bancolombia;Finalizado;Radicador 286
+R0287;19/03/2026;Ceme;Correo;Demanda;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 287
+R0288;3/03/2026;Concre;Correo;Estados de Cuenta;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 288
+R0289;13/03/2026;Odi;Correo;Bienes e Inmuebles;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 289
+R0290;20/12/2025;Odi;Ventanilla;Salud Ocupacional;Carlos Rodriguez;Bancolombia;Pendiente;Radicador 290
+R0291;6/01/2026;Concre;Ventanilla;Accion de Tutela;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 291
+R0292;2/02/2026;Ceme;Correo;Accion de Tutela;Ana Martinez;Bancolombia;Pendiente;Radicador 292
+R0293;29/03/2026;Ceme;Correo;Demanda;Luis Fernandez;Bancolombia;Finalizado;Radicador 293
+R0294;1/01/2026;Odi;Ventanilla;Resolucion;Maria Gomez;Bancolombia;Finalizado;Radicador 294
+R0295;21/11/2025;Concre;Correo;Bienes e Inmuebles;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 295
+R0296;22/03/2026;Ceme;Correo;Demanda;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 296
+R0297;11/01/2026;Ceme;Ventanilla;Accion de Tutela;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 297
+R0298;19/12/2025;Odi;Ventanilla;Ambiental;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 298
+R0299;4/11/2025;Odi;Correo;Accion de Tutela;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 299
+R0300;5/04/2026;Ceme;Ventanilla;Demanda;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 300
+R0301;24/01/2026;Odi;Correo;Estados de Cuenta;Luis Fernandez;Bancolombia;Pendiente;Radicador 301
+R0302;11/11/2025;Concre;Ventanilla;Demanda;Juan Perez;Bancolombia;Pendiente;Radicador 302
+R0303;22/11/2025;Concre;Correo;Salud Ocupacional;Luis Fernandez;Alcaldia de Yumbo;Finalizado;Radicador 303
+R0304;1/01/2026;Odi;Correo;Salud Ocupacional;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 304
+R0305;24/03/2026;Concre;Correo;Accion de Tutela;Carlos Rodriguez;Juzgado 12 Medellín;Pendiente;Radicador 305
+R0306;22/11/2025;Ceme;Ventanilla;Demanda;Luis Fernandez;Juzgado 12 Medellín;Finalizado;Radicador 306
+R0307;29/01/2026;Concre;Ventanilla;Accion de Tutela;Juan Perez;Bancolombia;Pendiente;Radicador 307
+R0308;22/03/2026;Ceme;Correo;Resolucion;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 308
+R0309;22/11/2025;Odi;Correo;Estados de Cuenta;Maria Gomez;Bancolombia;Finalizado;Radicador 309
+R0310;22/01/2026;Concre;Ventanilla;Estados de Cuenta;Carlos Rodriguez;Bancolombia;Pendiente;Radicador 310
+R0311;11/02/2026;Odi;Correo;Accion de Tutela;Luis Fernandez;Alcaldia de Yumbo;Pendiente;Radicador 311
+R0312;13/12/2025;Odi;Correo;Bienes e Inmuebles;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 312
+R0313;16/02/2026;Odi;Ventanilla;Ambiental;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 313
+R0314;21/02/2026;Concre;Correo;Demanda;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 314
+R0315;8/12/2025;Ceme;Correo;Ambiental;Luis Fernandez;Bancolombia;Pendiente;Radicador 315
+R0316;24/01/2026;Concre;Ventanilla;Demanda;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 316
+R0317;16/12/2025;Ceme;Correo;Estados de Cuenta;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 317
+R0318;30/11/2025;Odi;Correo;Demanda;Ana Martinez;Bancolombia;Pendiente;Radicador 318
+R0319;25/12/2025;Odi;Correo;Accion de Tutela;Ana Martinez;Bancolombia;Finalizado;Radicador 319
+R0320;11/12/2025;Ceme;Ventanilla;Salud Ocupacional;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 320
+R0321;14/01/2026;Ceme;Correo;Accion de Tutela;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 321
+R0322;15/03/2026;Concre;Ventanilla;Estados de Cuenta;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 322
+R0323;9/02/2026;Concre;Ventanilla;Bienes e Inmuebles;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 323
+R0324;3/02/2026;Concre;Correo;Demanda;Maria Gomez;Bancolombia;Pendiente;Radicador 324
+R0325;2/03/2026;Concre;Correo;Resolucion;Maria Gomez;Juzgado 12 Medellín;Pendiente;Radicador 325
+R0326;6/01/2026;Odi;Correo;Demanda;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 326
+R0327;30/11/2025;Ceme;Correo;Estados de Cuenta;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 327
+R0328;30/01/2026;Ceme;Correo;Estados de Cuenta;Juan Perez;Bancolombia;Finalizado;Radicador 328
+R0329;7/04/2026;Concre;Correo;Salud Ocupacional;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 329
+R0330;26/01/2026;Concre;Correo;Resolucion;Carlos Rodriguez;Bancolombia;Finalizado;Radicador 330
+R0331;12/11/2025;Odi;Ventanilla;Resolucion;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 331
+R0332;31/12/2025;Concre;Correo;Demanda;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 332
+R0333;1/04/2026;Concre;Correo;Accion de Tutela;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 333
+R0334;22/01/2026;Ceme;Correo;Resolucion;Ana Martinez;Bancolombia;Finalizado;Radicador 334
+R0335;7/02/2026;Concre;Ventanilla;Estados de Cuenta;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 335
+R0336;28/01/2026;Odi;Correo;Salud Ocupacional;Carlos Rodriguez;Bancolombia;Pendiente;Radicador 336
+R0337;9/04/2026;Ceme;Ventanilla;Accion de Tutela;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 337
+R0338;9/01/2026;Concre;Correo;Accion de Tutela;Ana Martinez;Bancolombia;Pendiente;Radicador 338
+R0339;23/03/2026;Ceme;Correo;Estados de Cuenta;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 339
+R0340;2/11/2025;Odi;Correo;Bienes e Inmuebles;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 340
+R0341;10/02/2026;Concre;Ventanilla;Ambiental;Luis Fernandez;Bancolombia;Finalizado;Radicador 341
+R0342;24/12/2025;Ceme;Ventanilla;Demanda;Maria Gomez;Bancolombia;Finalizado;Radicador 342
+R0343;31/03/2026;Ceme;Ventanilla;Ambiental;Luis Fernandez;Juzgado 12 Medellín;Finalizado;Radicador 343
+R0344;28/12/2025;Ceme;Ventanilla;Ambiental;Maria Gomez;Bancolombia;Pendiente;Radicador 344
+R0345;31/01/2026;Odi;Ventanilla;Bienes e Inmuebles;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 345
+R0346;5/03/2026;Ceme;Correo;Resolucion;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 346
+R0347;24/03/2026;Odi;Ventanilla;Estados de Cuenta;Luis Fernandez;Bancolombia;Pendiente;Radicador 347
+R0348;7/03/2026;Ceme;Correo;Resolucion;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 348
+R0349;10/02/2026;Ceme;Correo;Resolucion;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 349
+R0350;16/11/2025;Concre;Correo;Salud Ocupacional;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 350
+R0351;1/02/2026;Concre;Correo;Estados de Cuenta;Maria Gomez;Juzgado 12 Medellín;Finalizado;Radicador 351
+R0352;14/03/2026;Concre;Correo;Ambiental;Maria Gomez;Juzgado 12 Medellín;Pendiente;Radicador 352
+R0353;13/11/2025;Odi;Correo;Demanda;Ana Martinez;Ministerio de Ambiente;Pendiente;Radicador 353
+R0354;4/03/2026;Odi;Correo;Bienes e Inmuebles;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 354
+R0355;5/01/2026;Odi;Correo;Estados de Cuenta;Juan Perez;Ministerio de Ambiente;Pendiente;Radicador 355
+R0356;14/02/2026;Ceme;Correo;Resolucion;Luis Fernandez;Alcaldia de Yumbo;Finalizado;Radicador 356
+R0357;30/03/2026;Concre;Correo;Estados de Cuenta;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 357
+R0358;28/02/2026;Ceme;Correo;Resolucion;Juan Perez;Ministerio de Ambiente;Pendiente;Radicador 358
+R0359;19/12/2025;Odi;Ventanilla;Estados de Cuenta;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 359
+R0360;1/03/2026;Ceme;Ventanilla;Ambiental;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 360
+R0361;28/11/2025;Odi;Correo;Accion de Tutela;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 361
+R0362;15/12/2025;Odi;Ventanilla;Resolucion;Carlos Rodriguez;Superintendencia Financiera;Finalizado;Radicador 362
+R0363;17/12/2025;Ceme;Correo;Accion de Tutela;Luis Fernandez;Bancolombia;Finalizado;Radicador 363
+R0364;18/12/2025;Concre;Correo;Bienes e Inmuebles;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 364
+R0365;29/12/2025;Ceme;Correo;Demanda;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 365
+R0366;2/03/2026;Ceme;Ventanilla;Resolucion;Juan Perez;Alcaldia de Yumbo;Pendiente;Radicador 366
+R0367;30/01/2026;Ceme;Correo;Accion de Tutela;Maria Gomez;Superintendencia Financiera;Pendiente;Radicador 367
+R0368;5/12/2025;Odi;Ventanilla;Bienes e Inmuebles;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 368
+R0369;21/03/2026;Odi;Correo;Bienes e Inmuebles;Luis Fernandez;Bancolombia;Pendiente;Radicador 369
+R0370;8/03/2026;Ceme;Correo;Accion de Tutela;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 370
+R0371;14/01/2026;Ceme;Correo;Ambiental;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 371
+R0372;22/12/2025;Ceme;Ventanilla;Bienes e Inmuebles;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 372
+R0373;19/12/2025;Ceme;Ventanilla;Bienes e Inmuebles;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 373
+R0374;11/03/2026;Ceme;Ventanilla;Ambiental;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 374
+R0375;8/12/2025;Concre;Correo;Salud Ocupacional;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 375
+R0376;14/03/2026;Odi;Ventanilla;Bienes e Inmuebles;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 376
+R0377;19/02/2026;Concre;Correo;Demanda;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 377
+R0378;8/12/2025;Odi;Ventanilla;Demanda;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 378
+R0379;25/11/2025;Concre;Correo;Accion de Tutela;Luis Fernandez;Juzgado 12 Medellín;Pendiente;Radicador 379
+R0380;1/02/2026;Odi;Correo;Accion de Tutela;Luis Fernandez;Superintendencia Financiera;Finalizado;Radicador 380
+R0381;24/01/2026;Odi;Correo;Accion de Tutela;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 381
+R0382;7/11/2025;Odi;Correo;Bienes e Inmuebles;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 382
+R0383;5/02/2026;Ceme;Correo;Resolucion;Maria Gomez;Juzgado 12 Medellín;Pendiente;Radicador 383
+R0384;11/01/2026;Concre;Correo;Bienes e Inmuebles;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 384
+R0385;15/02/2026;Ceme;Correo;Accion de Tutela;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 385
+R0386;23/11/2025;Concre;Correo;Resolucion;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 386
+R0387;29/11/2025;Ceme;Ventanilla;Ambiental;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 387
+R0388;23/11/2025;Ceme;Ventanilla;Ambiental;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 388
+R0389;24/11/2025;Concre;Ventanilla;Ambiental;Maria Gomez;Bancolombia;Finalizado;Radicador 389
+R0390;18/02/2026;Odi;Ventanilla;Accion de Tutela;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 390
+R0391;14/03/2026;Odi;Ventanilla;Bienes e Inmuebles;Ana Martinez;Bancolombia;Finalizado;Radicador 391
+R0392;1/03/2026;Concre;Ventanilla;Estados de Cuenta;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 392
+R0393;14/03/2026;Odi;Ventanilla;Resolucion;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 393
+R0394;24/02/2026;Ceme;Correo;Estados de Cuenta;Juan Perez;Bancolombia;Pendiente;Radicador 394
+R0395;23/01/2026;Odi;Ventanilla;Ambiental;Maria Gomez;Alcaldia de Yumbo;Pendiente;Radicador 395
+R0396;14/02/2026;Odi;Correo;Bienes e Inmuebles;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 396
+R0397;8/11/2025;Ceme;Ventanilla;Ambiental;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 397
+R0398;13/02/2026;Ceme;Correo;Bienes e Inmuebles;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 398
+R0399;18/01/2026;Odi;Correo;Ambiental;Ana Martinez;Ministerio de Ambiente;Pendiente;Radicador 399
+R0400;1/01/2026;Ceme;Correo;Ambiental;Luis Fernandez;Superintendencia Financiera;Finalizado;Radicador 400
+R0401;10/12/2025;Concre;Correo;Accion de Tutela;Maria Gomez;Bancolombia;Pendiente;Radicador 401
+R0402;16/03/2026;Concre;Ventanilla;Estados de Cuenta;Luis Fernandez;Alcaldia de Yumbo;Pendiente;Radicador 402
+R0403;11/02/2026;Concre;Correo;Demanda;Carlos Rodriguez;Juzgado 12 Medellín;Pendiente;Radicador 403
+R0404;24/11/2025;Odi;Ventanilla;Estados de Cuenta;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 404
+R0405;31/01/2026;Odi;Correo;Ambiental;Luis Fernandez;Bancolombia;Finalizado;Radicador 405
+R0406;3/02/2026;Odi;Correo;Salud Ocupacional;Juan Perez;Bancolombia;Pendiente;Radicador 406
+R0407;21/03/2026;Ceme;Correo;Accion de Tutela;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 407
+R0408;15/01/2026;Concre;Correo;Salud Ocupacional;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 408
+R0409;13/02/2026;Concre;Ventanilla;Accion de Tutela;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 409
+R0410;17/11/2025;Concre;Correo;Estados de Cuenta;Juan Perez;Alcaldia de Yumbo;Pendiente;Radicador 410
+R0411;15/01/2026;Odi;Correo;Resolucion;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 411
+R0412;1/02/2026;Odi;Ventanilla;Salud Ocupacional;Maria Gomez;Juzgado 12 Medellín;Pendiente;Radicador 412
+R0413;13/12/2025;Odi;Correo;Estados de Cuenta;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 413
+R0414;5/12/2025;Ceme;Ventanilla;Bienes e Inmuebles;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 414
+R0415;27/02/2026;Concre;Ventanilla;Bienes e Inmuebles;Maria Gomez;Superintendencia Financiera;Pendiente;Radicador 415
+R0416;14/03/2026;Odi;Correo;Estados de Cuenta;Juan Perez;Bancolombia;Finalizado;Radicador 416
+R0417;22/11/2025;Ceme;Correo;Ambiental;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 417
+R0418;28/03/2026;Odi;Ventanilla;Ambiental;Luis Fernandez;Alcaldia de Yumbo;Pendiente;Radicador 418
+R0419;26/03/2026;Odi;Correo;Accion de Tutela;Luis Fernandez;Bancolombia;Finalizado;Radicador 419
+R0420;1/01/2026;Odi;Correo;Ambiental;Luis Fernandez;Alcaldia de Yumbo;Pendiente;Radicador 420
+R0421;20/11/2025;Odi;Correo;Ambiental;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 421
+R0422;4/01/2026;Odi;Correo;Demanda;Carlos Rodriguez;Juzgado 12 Medellín;Pendiente;Radicador 422
+R0423;10/02/2026;Concre;Correo;Resolucion;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 423
+R0424;17/03/2026;Odi;Ventanilla;Estados de Cuenta;Luis Fernandez;Bancolombia;Pendiente;Radicador 424
+R0425;2/12/2025;Ceme;Correo;Accion de Tutela;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 425
+R0426;18/11/2025;Odi;Correo;Demanda;Ana Martinez;Ministerio de Ambiente;Finalizado;Radicador 426
+R0427;24/03/2026;Concre;Correo;Resolucion;Ana Martinez;Superintendencia Financiera;Pendiente;Radicador 427
+R0428;6/11/2025;Concre;Ventanilla;Salud Ocupacional;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 428
+R0429;25/02/2026;Odi;Ventanilla;Demanda;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 429
+R0430;4/01/2026;Odi;Ventanilla;Resolucion;Juan Perez;Ministerio de Ambiente;Pendiente;Radicador 430
+R0431;8/12/2025;Ceme;Correo;Bienes e Inmuebles;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 431
+R0432;13/03/2026;Odi;Correo;Demanda;Maria Gomez;Juzgado 12 Medellín;Pendiente;Radicador 432
+R0433;19/01/2026;Ceme;Correo;Resolucion;Ana Martinez;Alcaldia de Yumbo;Pendiente;Radicador 433
+R0434;5/02/2026;Odi;Correo;Resolucion;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 434
+R0435;21/03/2026;Concre;Correo;Estados de Cuenta;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 435
+R0436;18/12/2025;Ceme;Correo;Resolucion;Ana Martinez;Bancolombia;Pendiente;Radicador 436
+R0437;28/11/2025;Ceme;Correo;Resolucion;Maria Gomez;Bancolombia;Pendiente;Radicador 437
+R0438;23/12/2025;Odi;Ventanilla;Bienes e Inmuebles;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 438
+R0439;26/12/2025;Odi;Correo;Ambiental;Carlos Rodriguez;Superintendencia Financiera;Finalizado;Radicador 439
+R0440;28/11/2025;Concre;Ventanilla;Resolucion;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 440
+R0441;11/01/2026;Concre;Correo;Bienes e Inmuebles;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 441
+R0442;6/03/2026;Ceme;Correo;Bienes e Inmuebles;Maria Gomez;Juzgado 12 Medellín;Finalizado;Radicador 442
+R0443;29/12/2025;Concre;Ventanilla;Resolucion;Luis Fernandez;Alcaldia de Yumbo;Finalizado;Radicador 443
+R0444;1/04/2026;Odi;Correo;Demanda;Maria Gomez;Juzgado 12 Medellín;Pendiente;Radicador 444
+R0445;14/11/2025;Ceme;Ventanilla;Ambiental;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 445
+R0446;1/02/2026;Concre;Correo;Estados de Cuenta;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 446
+R0447;7/02/2026;Odi;Correo;Bienes e Inmuebles;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 447
+R0448;7/02/2026;Concre;Ventanilla;Salud Ocupacional;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 448
+R0449;5/03/2026;Ceme;Correo;Accion de Tutela;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 449
+R0450;27/12/2025;Ceme;Ventanilla;Bienes e Inmuebles;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 450
+R0451;16/01/2026;Ceme;Ventanilla;Accion de Tutela;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 451
+R0452;4/02/2026;Ceme;Correo;Ambiental;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 452
+R0453;29/12/2025;Ceme;Ventanilla;Ambiental;Ana Martinez;Bancolombia;Pendiente;Radicador 453
+R0454;31/03/2026;Odi;Correo;Estados de Cuenta;Maria Gomez;Juzgado 12 Medellín;Finalizado;Radicador 454
+R0455;2/02/2026;Concre;Ventanilla;Accion de Tutela;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 455
+R0456;16/12/2025;Concre;Ventanilla;Ambiental;Carlos Rodriguez;Bancolombia;Pendiente;Radicador 456
+R0457;22/01/2026;Odi;Correo;Resolucion;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 457
+R0458;21/01/2026;Concre;Ventanilla;Salud Ocupacional;Maria Gomez;Ministerio de Ambiente;Pendiente;Radicador 458
+R0459;2/04/2026;Ceme;Correo;Demanda;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 459
+R0460;1/02/2026;Ceme;Ventanilla;Salud Ocupacional;Carlos Rodriguez;Ministerio de Ambiente;Pendiente;Radicador 460
+R0461;6/04/2026;Concre;Correo;Resolucion;Ana Martinez;Bancolombia;Pendiente;Radicador 461
+R0462;12/03/2026;Concre;Ventanilla;Resolucion;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 462
+R0463;9/03/2026;Ceme;Correo;Accion de Tutela;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 463
+R0464;4/11/2025;Concre;Correo;Resolucion;Juan Perez;Superintendencia Financiera;Finalizado;Radicador 464
+R0465;7/03/2026;Odi;Ventanilla;Accion de Tutela;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 465
+R0466;17/11/2025;Concre;Correo;Bienes e Inmuebles;Luis Fernandez;Ministerio de Ambiente;Pendiente;Radicador 466
+R0467;22/12/2025;Ceme;Correo;Accion de Tutela;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 467
+R0468;19/01/2026;Concre;Correo;Salud Ocupacional;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 468
+R0469;27/11/2025;Concre;Ventanilla;Ambiental;Ana Martinez;Ministerio de Ambiente;Pendiente;Radicador 469
+R0470;12/02/2026;Concre;Ventanilla;Demanda;Ana Martinez;Juzgado 12 Medellín;Pendiente;Radicador 470
+R0471;14/03/2026;Ceme;Correo;Resolucion;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 471
+R0472;22/03/2026;Odi;Ventanilla;Salud Ocupacional;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 472
+R0473;6/03/2026;Ceme;Correo;Salud Ocupacional;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 473
+R0474;10/11/2025;Odi;Ventanilla;Ambiental;Luis Fernandez;Ministerio de Ambiente;Finalizado;Radicador 474
+R0475;12/02/2026;Odi;Ventanilla;Accion de Tutela;Juan Perez;Juzgado 12 Medellín;Pendiente;Radicador 475
+R0476;6/02/2026;Concre;Correo;Accion de Tutela;Luis Fernandez;Superintendencia Financiera;Pendiente;Radicador 476
+R0477;17/12/2025;Concre;Ventanilla;Demanda;Carlos Rodriguez;Juzgado 12 Medellín;Finalizado;Radicador 477
+R0478;31/12/2025;Odi;Correo;Estados de Cuenta;Ana Martinez;Juzgado 12 Medellín;Finalizado;Radicador 478
+R0479;22/03/2026;Concre;Correo;Demanda;Carlos Rodriguez;Alcaldia de Yumbo;Pendiente;Radicador 479
+R0480;31/01/2026;Odi;Correo;Bienes e Inmuebles;Luis Fernandez;Bancolombia;Pendiente;Radicador 480
+R0481;28/01/2026;Concre;Correo;Salud Ocupacional;Juan Perez;Alcaldia de Yumbo;Finalizado;Radicador 481
+R0482;4/04/2026;Concre;Correo;Salud Ocupacional;Juan Perez;Alcaldia de Yumbo;Pendiente;Radicador 482
+R0483;3/04/2026;Concre;Correo;Demanda;Luis Fernandez;Juzgado 12 Medellín;Finalizado;Radicador 483
+R0484;7/01/2026;Odi;Correo;Estados de Cuenta;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 484
+R0485;9/02/2026;Concre;Correo;Estados de Cuenta;Carlos Rodriguez;Ministerio de Ambiente;Finalizado;Radicador 485
+R0486;29/03/2026;Concre;Ventanilla;Accion de Tutela;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 486
+R0487;14/12/2025;Concre;Correo;Resolucion;Maria Gomez;Ministerio de Ambiente;Finalizado;Radicador 487
+R0488;21/01/2026;Ceme;Correo;Resolucion;Juan Perez;Ministerio de Ambiente;Finalizado;Radicador 488
+R0489;31/12/2025;Ceme;Correo;Resolucion;Maria Gomez;Alcaldia de Yumbo;Finalizado;Radicador 489
+R0490;9/03/2026;Odi;Correo;Estados de Cuenta;Juan Perez;Bancolombia;Pendiente;Radicador 490
+R0491;11/02/2026;Concre;Correo;Bienes e Inmuebles;Luis Fernandez;Juzgado 12 Medellín;Finalizado;Radicador 491
+R0492;24/01/2026;Odi;Correo;Ambiental;Juan Perez;Bancolombia;Finalizado;Radicador 492
+R0493;29/11/2025;Odi;Ventanilla;Accion de Tutela;Ana Martinez;Superintendencia Financiera;Finalizado;Radicador 493
+R0494;27/02/2026;Odi;Ventanilla;Accion de Tutela;Carlos Rodriguez;Superintendencia Financiera;Pendiente;Radicador 494
+R0495;28/12/2025;Concre;Correo;Demanda;Maria Gomez;Superintendencia Financiera;Finalizado;Radicador 495
+R0496;5/03/2026;Odi;Correo;Estados de Cuenta;Juan Perez;Juzgado 12 Medellín;Finalizado;Radicador 496
+R0497;27/03/2026;Ceme;Correo;Demanda;Ana Martinez;Alcaldia de Yumbo;Finalizado;Radicador 497
+R0498;7/11/2025;Odi;Ventanilla;Bienes e Inmuebles;Maria Gomez;Bancolombia;Finalizado;Radicador 498
+R0499;16/01/2026;Ceme;Ventanilla;Estados de Cuenta;Juan Perez;Bancolombia;Finalizado;Radicador 499
+R0500;18/12/2025;Concre;Correo;Resolucion;Carlos Rodriguez;Alcaldia de Yumbo;Finalizado;Radicador 500
